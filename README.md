@@ -1,3 +1,7 @@
-# IlterUIKitExtensions
+# Ilter's UIKit Extensions
 
-A description of this package.
+THIS REPOSITORY IS UNDER PRIVATE LICENCE, YOU CAN NOT USE WITHOUT ANY PERMISSION OF MINE. 
+
+IF YOU WANT TO USE IT, YOU SHOULD REACH ME VIA EMAIL.
+
+hilterkose at gmail dot com
